@@ -46,3 +46,7 @@ footer {
 .setWidth {
   flex: auto;
 }
+
+.diff-align {
+  flex-end: align-self;
+}
